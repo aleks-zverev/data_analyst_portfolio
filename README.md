@@ -16,3 +16,4 @@
 
 ## Сертификаты
 - [«Инструменты анализа данных»](https://disk.yandex.ru/i/4AzeKsDDh1mz5g)
+- [EF SET Certificate](https://cert.efset.org/hicqi1)
